@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "458929089170",
+    "firebase_url": "https://tryit-demo.firebaseio.com",
+    "project_id": "tryit-demo",
+    "storage_bucket": "tryit-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458929089170:android:04cba2f30711283b",
+        "android_client_info": {
+          "package_name": "demo.tryitfirst.ssapps.com.tryitfirst_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458929089170-l08mrg9c3fm3pibc0msmbbij0af4dukk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGGcsnoRpVU7bGXdSM4HtFCPr63y2E7U4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
